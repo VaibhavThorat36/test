@@ -1,1 +1,2 @@
 Hi this is new file in git, which i am goin to add.
+Now I am editing file in remote server.
